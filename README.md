@@ -9,6 +9,7 @@
 
 <p align="center">
 <a href=""><img title="System" src="https://img.shields.io/badge/Supported%20OS-Linux-orange?style=for-the-badge&logo=linux"></a>
+  <a href=""><img title="System" src="https://img.shields.io/badge/perl-hecho-orange?style=for-the-badge&logo=perl"></a>
 <a href="https://www.paypal.com/paypalme/drandroidsv"><img title="Paypal" src="https://img.shields.io/badge/Donate-PayPal-green.svg?style=for-the-badge&logo=paypal"></a>
 </p>
 
@@ -18,4 +19,15 @@
 <a href="https://twitter.com/MASTERSV19"><img title="Twitter" src="https://img.shields.io/badge/CHAT-TWITTER-blue?style=for-the-badge&logo=twitter"></a>
 </p>
 
-**MasTerSv RK** es un framework diseñado para automatizar el proceso para atacar un router de diferentes maneras. Actualmente las redes WIFI siguen siendo vulnerables a estos ataques y este pequeño programa en BASH ayuda a automatizar a realizar dichos ataques, trabaja principalmente con dependencias muy famosas en distribuciones como **Kali Linux** o **Parrot Security OS**
+**dicmake** es un framework diseñado para automatizar el proceso para crear diccionarios de diferentes maneras. Actualmente se utilizan en ataques a redes WIFI , trabaja principalmente perl **compatible para cualquier plataforma linux incluida mac**
+
+## Instalacion 🔧
+
+* git clone https://github.com/drandroidsv/dicmake.git
+* cd dicmake
+* perl dicmake.pl
+
+## Creditos:
+
+* Mastersv (Drandroidsv)
+* Sigueme en Twitter. @MASTERSV19
